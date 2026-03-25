@@ -78,3 +78,5 @@ namespace CompetitionTwo.Models
 
     }
 }
+/* This class manages the library system including books and patrons,
+and provides functionality for adding, searching, and borrowing books. */
