@@ -25,5 +25,6 @@ namespace CompetitionTwo.Models
         {
             return $"Title: {Title}, Author: {Author}, Available Copies: {AvailableCopies}";
         }
+        // 
     }
 }
